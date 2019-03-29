@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+}
+
+.flex_container{
+    background: blue;
+}
+
+.flex_items{
+    width:200px;
+    height:200px;
+    margin:10px;
+    background: white;
+}
